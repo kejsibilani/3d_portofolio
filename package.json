@@ -13,6 +13,7 @@
     "@emailjs/browser": "^4.2.0",
     "@react-three/drei": "^9.99.5",
     "@react-three/fiber": "^8.15.16",
+    "@vercel/speed-insights": "^1.0.10",
     "firebase": "^10.8.1",
     "framer-motion": "^11.0.8",
     "maath": "^0.10.7",
